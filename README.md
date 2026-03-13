@@ -14,6 +14,7 @@ merging, conflict resolution, and commit history manipulation.
 The repository initially contains the following files:
 
 - readme.md
+- This is GitHub Example Project
 - Additional files may be added during the examination
 
 Each file must be properly tracked using Git.
